@@ -139,7 +139,7 @@ const Index = () => {
                   transition={{ delay: 0.5, type: "spring", stiffness: 100 }}
                 >
                   <img 
-                    src="/placeholder.svg" 
+                    src="/converter-preview.png" 
                     alt="Handwriting Preview" 
                     className="w-full h-auto"
                   />
